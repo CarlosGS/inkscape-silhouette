@@ -14,6 +14,8 @@
         <item value="portrait_8x12">Portrait 8x12</item>
         <item value="cameo_plus_15x15">Cameo Plus 15x15</item>
         <item value="cameo_pro_24x24">Cameo Pro 24x24</item>
+        <item value="curio_8p5x6">Curio 8.5x6</item>
+        <item value="curio_8p5x12">Curio 8.5x12</item>
         <item value="no_mat">None</item>
       </param>
       <param name="toolholder" type="enum" _gui-text="Tool Holder:">
@@ -144,6 +146,7 @@ Minimal Traveling (no reverse): Like fully optimized but respect original orient
 	<item value="Silhouette_Cameo4">Silhouette Cameo 4</item>
 	<item value="Silhouette_Cameo4_Plus">Silhouette Cameo 4 Plus</item>
 	<item value="Silhouette_Cameo4_Pro">Silhouette Cameo 4 Pro</item>
+	<item value="Silhouette_Curio">Curio</item>
 	<item value="Craft_Robo_CC200-20">Craft Robo CC200-20</item>
 	<item value="Craft_Robo_CC300-20">Craft Robo CC300-20</item>
 	<item value="Silhouette_SD_1">Silhouette SD 1</item>
