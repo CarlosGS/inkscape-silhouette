@@ -227,7 +227,7 @@ DEVICE = [
    'length_mm': 3000,
    'margin_left_mm': 0.0, 'margin_top_mm': 0.0, 'regmark': True },
  { 'vendor_id': VENDOR_ID_GRAPHTEC, 'product_id': PRODUCT_ID_SILHOUETTE_CURIO, 'name': 'Silhouette_Curio',
-   'width_mm':  215.9, 'length_mm': 3000, 'margin_left_mm':0.0, 'margin_top_mm':0.0, 'regmark': True }, # TODO check margins
+   'width_mm':  215.9, 'length_mm': 3048, 'margin_left_mm':0.0, 'margin_top_mm':0.0, 'regmark': True },
  { 'vendor_id': VENDOR_ID_GRAPHTEC, 'product_id': PRODUCT_ID_CC200_20, 'name': 'Craft_Robo_CC200-20',
    'width_mm':  200, 'length_mm': 1000, 'regmark': True },
  { 'vendor_id': VENDOR_ID_GRAPHTEC, 'product_id': PRODUCT_ID_CC300_20, 'name': 'Craft_Robo_CC300-20' },
